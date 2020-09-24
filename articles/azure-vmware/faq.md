@@ -42,6 +42,7 @@ basis.
 ### Can I migrate vSphere VMs from on-premises environments to Azure VMware Solution private clouds?
 
 Yes. VM migration and vMotion can be used to move VMs to a private cloud if standard cross vCenter [vMotion requirements](https://kb.vmware.com/s/article/210695) are met.
+>>link to vMotion requirements does not work.
 
 ### Is a specific version of vSphere required in on-premises environments?
 
@@ -133,6 +134,8 @@ The private cloud software bundle upgrades are done to keep the software within 
 ### How often will the private cloud software stack be updated?
 
 The private cloud software is upgraded on a schedule that tracks with the release of the software bundle from VMware. Your private cloud doesn't require downtime for upgrades.
+
+>>Is HCX included in this statement?
 
 ## Connectivity
 
